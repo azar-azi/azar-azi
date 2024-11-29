@@ -40,8 +40,9 @@
 
 ### 📈 Contributions:
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=azar-azi&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azar-azi&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
+
 
 ---
 
@@ -50,11 +51,7 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
----
-### 🐍 Fun Element:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+
 ---
 
 ### 🎯 Fun Facts:
