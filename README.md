@@ -63,7 +63,8 @@ Software Engineer @ Zoho Corporation
 
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+
+
 
 [![Hareesh's github activity graph](https://github-readme-stats.vercel.app/api?username=azar-azi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false)
 
