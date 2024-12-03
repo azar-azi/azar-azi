@@ -9,7 +9,7 @@
 ### 🌟 About Me:
 - 🔭 **Currently working on**: Exciting .NET projects 💡  
 - 🌱 **Learning**: Ethical hacking & Advanced C# 🔒
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
+- 🔭 Here's my [portfolio](https://azar-azi.github.io/azarportfolio.in/)                                                 
 - 🌱 I’m currently learning  Ethical hacking & Advanced C# 🔒
 - 👯 I’m looking to collaborate on ML/AI
 - 🤔 I’m looking for help with Placements in FAANG
