@@ -30,7 +30,7 @@
   <a href="https://linkedin.com/in/link" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-  <a href="https://instagram.com/insta" target="_blank">
+  <a href="https://www.instagram.com/i_am_pottor/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
   </a>
   <a href="mailto:example@gmail.com">
